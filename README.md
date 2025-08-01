@@ -44,6 +44,14 @@ The system automatically maintains the ambient temperature within a specified ra
 | Breadboard & wires     | -        | For prototyping connections          |
 | Power supply           | 1        | USB or external (as needed)          |
 
+---
+
+## Schematic / Wiring Diagram
+<p align="center">
+<img width="631" height="561" alt="Screenshot 2025-08-01 135008" src="https://github.com/user-attachments/assets/d3589a2c-61ab-472b-8799-cb7d4cb5aae1" />
+</p>
+
+---
 
 ## Workflow & Deadband Logic
 
